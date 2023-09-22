@@ -28,7 +28,7 @@ Tested API's on Postman:-
 ![Screenshot (3)](https://github.com/Sahil-Jagadale/QuadB/assets/89444475/2743d214-b675-412f-ac72-e4708c5e7b94)
 ![Screenshot (4)](https://github.com/Sahil-Jagadale/QuadB/assets/89444475/8db902db-ff32-42d0-aeaa-56d778ada245)
 
-MongoDB Database(Top 10 data hgas been stored):-
+MongoDB Database(Top 10 data has been stored):-
 ![Screenshot (5)](https://github.com/Sahil-Jagadale/QuadB/assets/89444475/24649cc1-5bfa-4107-b1aa-441a2b6ea95f)
 
 Data Fetched in Frontend:-
